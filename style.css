@@ -18,17 +18,17 @@ h1{
 }
 h2{
     text-align: left;
-    margin: 0 24%;
+    margin: 0 29%;
     padding: 15px;
 }
 h3{
     text-align: center;
 }
 p{
-    font-size: 18px;
-    line-height: 28px;
-    margin: 0 25%;
-    
+    font-size: 22px;
+    line-height: 40px;
+    margin: 0 30%;
+    padding-bottom: 20px;
 }
 i{
     display: inline-block;
@@ -36,6 +36,9 @@ i{
     padding-bottom: 10px;
     
     
+}
+.Heading{
+    text-align: center;
 }
 #Small{
     text-align: center;
