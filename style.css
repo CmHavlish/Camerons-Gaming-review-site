@@ -13,21 +13,32 @@ body{
 h1{
     text-align:center;
     font-size: 3em;
-    margin: 0;
+    margin: 20px;
+    
 }
 h2{
     text-align: left;
+    margin: 0 24%;
+    padding: 15px;
 }
 h3{
     text-align: center;
 }
 p{
     font-size: 18px;
-    line-height: 24px;
+    line-height: 28px;
+    margin: 0 25%;
     
 }
-.container{
-    max-width: 1000px;
+i{
+    display: inline-block;
+    margin: 0 15%;
+    padding-bottom: 10px;
+    
+    
+}
+#Small{
+    text-align: center;
     
 }
 img{
@@ -35,6 +46,9 @@ img{
   margin-left: auto;
   margin-right: auto;
   width: 75%;
+}
+.picture{
+    margin: 0;
 }
 .HomepagePicture:hover{
     opacity: 0.7;
